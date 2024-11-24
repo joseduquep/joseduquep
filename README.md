@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseduquep
 - 👀 I’m interested in creating qualified software 😎
-- 🌱 I’m currently learning Django much as possible to master it
+- 🌱 I’m currently learning Django as much as possible to master it
 - 💞️ I’m looking to collaborate on big tech company
 - 📫 You can find on
    * IG as @joseduquep https://www.instagram.com/joseduquep/
