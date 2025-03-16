@@ -25,9 +25,9 @@
 ### 👨‍💻 About Me:
 
 - I'm a **Developer** | **Engineer** | **Eternal Learner**
-- 🔭 Building scalable solutions with **Linode, Django REST, Python, PostgreSQL**
-- 🌱 Learning **Distributed Systems**
-- ☁️ Passionate about **Backend Development**
+- 🔭 Building scalable solutions with **Linode, Django REST, Python, PostgreSQL**.
+- 🌱 Learning **AWS** and **Distributed Systems**.
+- ☁️ Passionate about **Backend Development**.
 - 🧠 Always curious, always improving — a true believer in lifelong learning.
 - 💬 Let's talk about **Django, Python** and **Relational Databases**.
 - 📫 Reach out via email: **[duquepiedrahitaalejandro@gmail.com](mailto:duquepiedrahitaalejandro@gmail.com)**
