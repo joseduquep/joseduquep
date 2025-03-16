@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me:
 
-- I'm a **Developer** | **Programmer** | **Eternal Learner**
+- I'm a **Developer** | **Engineer** | **Eternal Learner**
 - 🔭 Building scalable solutions with **Linode, Django REST, Python, PostgreSQL**
 - 🌱 Learning **Distributed Systems**
 - ☁️ Passionate about **Backend Development**
